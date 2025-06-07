@@ -2,7 +2,7 @@
 
 **Decentralizing AI. Defending Humanity.**
 
-Sentinel Grid is an ambitious **work-in-progress** project aiming to build a blockchain-powered platform to **logically decentralize AI** and fight AI sadism — making AI safer, fairer, and transparent.
+Sentinel Grid is an ambitious **work-in-progress** project aiming to build a blockchain-powered platform to **logically decentralize AI** and fight AI sadism - making AI safer, fairer, and transparent.
 
 ---
 
