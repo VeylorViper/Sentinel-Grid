@@ -16,15 +16,16 @@ As AI systems become more powerful, centralized control risks misuse and harm. S
 
 - Conceptualizing core architecture  
 - Designing ethical logic modules  
-- Researching blockchain integration with AI  
+- Building the integration modules for AI and blockchain
 - Early prototyping underway
 
 ---
 
-## Why Sentinel Grid?
+## Features
 
-- Reduce centralized AI control risks  
-- Enable transparent AI decision making  
-- Foster community-led AI policy and oversight
+- **Custom File Format:** Blocks and transactions are serialized with a well-defined format supporting extensibility and future upgrades.  
+- **Mining Support:** Blocks include a nonce placeholder for mining logic implementation.  
+- **Networking Metadata:** Embedded peer info supports decentralized syncing across nodes.  
+- **Compression & Encryption:** Optional gzip/zstd compression and AES-GCM encryption enhance data integrity and confidentiality.  
 
-*Built by visionaries — work in progress, future in mind.*
+
